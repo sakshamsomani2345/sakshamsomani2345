@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamsomani2345&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamsomani2345" /> </p>
 - 🔭 I’m a **DSA enthusiast and a competitive programmer**
 
-- 🌱 I’m currently learning **Python ,Java And Blockchain**
+- 🌱 I’m currently learning **Python ,Machine Learning And Blockchain**
 
-- 👯 I’m looking to collaborate on **MERN Stack**
+- 👯 I’m looking to collaborate on **MERN Stack and ML**
 
 - 💬 Ask me about **Anything You Want!**
 - 📫 How to reach me **sakshamsomani2345@gmail.com**
