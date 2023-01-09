@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python ,Machine Learning And Blockchain**
 
-- 👯 I’m looking to collaborate on **MERN Stack and ML**
+- 👯 I’m looking to collaborate on **MERN stack and ML**
 
 - 💬 Ask me about **Anything You Want!**
 - 📫 How to reach me **sakshamsomani2345@gmail.com**
