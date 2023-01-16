@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack and ML**
 
-- 💬 Ask me about **Anything You Want**
+- 💬 Ask me about **Anything You Want!**
 - 📫 How to reach me **sakshamsomani2345@gmail.com**
 
 
