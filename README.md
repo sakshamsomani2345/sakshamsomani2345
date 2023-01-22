@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋,Saksham Here</h1>
-<h3 align="center">A Technical Enthusiast And A Pssionate Learner</h3>
+<h3 align="center">A Technical Enthusiast And A Passionate Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamsomani2345&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamsomani2345" /> </p>
 - 🔭 I’m a **DSA enthusiast and a competitive programmer**
